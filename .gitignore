@@ -1,0 +1,7 @@
+target
+.idea
+*.iml
+deploy.tar.gz
+deploy
+.DS_Store
+build/dev.properties
